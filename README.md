@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Walter 😁
+## Welcome to Walter's profile!! 😁
 
  <div>
   <a href="https://github.com/WalterBPN">
