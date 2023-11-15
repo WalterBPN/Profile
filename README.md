@@ -1,9 +1,9 @@
 ## Bem-vindo(a) ao perfil do Walter 😁
 
  <div>
-  <a href="https://github.com/Walter-Neto">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Walter-Neto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Walter-Neto&layout=compact&langs_count=6&theme=tokyonight"/>
+  <a href="https://github.com/WalterBPN">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WalterBPN&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WalterBPN&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 <!--
 <div style="display: inline_block"><br>
@@ -17,9 +17,9 @@
   ### Contatos:
  
 <div> 
-<a href = "mailto:walter.barcellos.pereira.neto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:wbpnok@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/walter-barcellos-860955230/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/Walter-Neto/Walter-Neto/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/WalterBPN/Profile/blob/output/github-contribution-grid-snake.svg)
 
 </div>
